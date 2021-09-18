@@ -7,13 +7,14 @@
 ## Install
 
 ```bash
-npm install --save react-dot-loader
+npm install --save react-dot-loaders
 ```
 
 ## Usage
 
 ```jsx
 import React, { Component } from 'react'
+import DotLoader from 'react-dot-loaders';
 
 class Example extends Component {
   render() {
