@@ -24,7 +24,8 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^16.0.0",
+    "@emotion/react": "^11.4.1"
   },
   "devDependencies": {
     "microbundle-crl": "^0.13.10",
@@ -49,5 +50,9 @@
   },
   "files": [
     "dist"
-  ]
+  ],
+  "dependencies": {
+    "@emotion/react": "^11.4.1",
+    "classnames": "^2.3.1"
+  }
 }

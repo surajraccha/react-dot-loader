@@ -1,6 +1,6 @@
 # react-dot-loader
 
-> Made with create-react-library
+> React Dot Loader Component 
 
 [![NPM](https://img.shields.io/npm/v/react-dot-loader.svg)](https://www.npmjs.com/package/react-dot-loader) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
@@ -20,10 +20,21 @@ import 'react-dot-loader/dist/index.css'
 
 class Example extends Component {
   render() {
-    return <MyComponent />
+    return <DotLoader type={5}/> // type range - 0 to 49
   }
 }
 ```
+
+# Properties
+
+| Propertie    | Description                    |
+| ------------ | ------------------------------ |
+|    type      | Type of Loader you want        |
+
+
+## Preview of all dot loaders with type 
+
+<img src="./dot-loader.gif" alt="Result" width="90" height="90" />
 
 ## License
 
