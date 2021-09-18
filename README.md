@@ -27,9 +27,9 @@ class Example extends Component {
 
 ## Properties
 
-| Propertie    | Description                    |
-| ------------ | ------------------------------ |
-|    type      | Type of Loader you want        |
+| Propertie    | Description                          |
+| ------------ | -------------------------------------|
+|    type      | Type of Loader you want (Default -4) |
 
 
 
