@@ -15,8 +15,7 @@ npm install --save react-dot-loader
 ```jsx
 import React, { Component } from 'react'
 
-import MyComponent from 'react-dot-loader'
-import 'react-dot-loader/dist/index.css'
+import DotLoader from 'dot-loader'
 
 class Example extends Component {
   render() {
