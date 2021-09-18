@@ -34,7 +34,7 @@ class Example extends Component {
 
 ## Preview of all dot loaders with type 
 
-<img src="./dot-loader.gif" alt="Result" width="90" height="90" />
+<img src="./dot-loader.gif" alt="Result" width="700" height="700" />
 
 ## License
 
