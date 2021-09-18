@@ -25,17 +25,20 @@ class Example extends Component {
 }
 ```
 
-# Properties
+## Properties
 
 | Propertie    | Description                    |
 | ------------ | ------------------------------ |
 |    type      | Type of Loader you want        |
 
 
+
 ## Preview of all dot loaders with type 
 
-<img src="./dot-loader.gif" alt="Result" width="700" height="700" />
+<img src="./dot-loader.gif" alt="Result" width="1000" height="700" />
+
 
 ## License
+
 
 MIT © [surajraccha](https://github.com/surajraccha)
