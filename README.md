@@ -15,8 +15,6 @@ npm install --save react-dot-loader
 ```jsx
 import React, { Component } from 'react'
 
-import DotLoader from 'dot-loader'
-
 class Example extends Component {
   render() {
     return <DotLoader type={5}/> // type range - 0 to 49
@@ -24,17 +22,23 @@ class Example extends Component {
 }
 ```
 
-# Properties
+## Properties
 
-| Propertie    | Description                    |
-| ------------ | ------------------------------ |
-|    type      | Type of Loader you want        |
+| Propertie    | Description                          |
+| ------------ | -------------------------------------|
+|    type      | Type of Loader you want (Default -4) |
+
 
 
 ## Preview of all dot loaders with type 
 
-<img src="./dot-loader.gif" alt="Result" width="90" height="90" />
+
+
+<img src="./dot-loader.gif" alt="Result" width="1000" height="700" />
+
+
 
 ## License
+
 
 MIT © [surajraccha](https://github.com/surajraccha)
