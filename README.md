@@ -15,9 +15,6 @@ npm install --save react-dot-loader
 ```jsx
 import React, { Component } from 'react'
 
-import DotLoader from 'react-dot-loader'
-import 'react-dot-loader/dist/index.css'
-
 class Example extends Component {
   render() {
     return <DotLoader type={5}/> // type range - 0 to 49
